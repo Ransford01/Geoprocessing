@@ -29,3 +29,6 @@ This repository serves as a reference for students, reseachers, or planners inte
 
 Acknowledgement
 Special mention and thanks to Prof. Owusu Barimah  and the Department of Geography and Resource Development for guidance and support throughout this classwork
+
+This is a link to the various maps
+https://drive.google.com/drive/folders/144hkWBzA-FciYnGWRIPk7T4PufuzvPv9?usp=sharing
